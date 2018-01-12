@@ -1,5 +1,5 @@
 ---
-title: Participating in WAI
+title: WAI Sitemap
 layout: default
 ---
 {::options toc_levels="2" /}
