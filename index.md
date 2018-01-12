@@ -359,7 +359,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
     2.  [WAI Events](https://www.w3.org/WAI/events)
     3.  [About RSS](https://www.w3.org/WAI/highlights/about-rss)
     4.  [WAI Highlights](https://www.w3.org/WAI/highlights/archive)
-5.  [WAI Groups](https://www.w3.org/WAI/groups){#groups}
+5.  [WAI Groups](https://www.w3.org/WAI/groups)
     1.  [Accessible Platform Architectures Working Group
         (APA)](https://www.w3.org/WAI/APA/)
     2.  [Accessible Rich Internet Applications Working Group
