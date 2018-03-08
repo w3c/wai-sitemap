@@ -1,5 +1,5 @@
 ---
-title: WAI Sitemap
+title: WAI Site Map
 layout: default
 ---
 
