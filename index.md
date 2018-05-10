@@ -64,15 +64,15 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 
 ## Planning & Policies
 
-- [Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/plan/interim-repairs/" | relative_url }})
+- [Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/planning/interim-repairs/" | relative_url }})
 - [Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }})
   -  [Initiate]({{ "/planning-and-managing/initiate/" | relative_url }})
   -  [Plan]({{ "/planning-and-managing/plan/" | relative_url }})
   -  [Implement]({{ "/planning-and-managing/implement/" | relative_url }})
   -  [Sustain]({{ "/planning-and-managing/sustain/" | relative_url }})
 - [International Laws & Policies]({{ "/policies/" | relative_url }})
-- [Developing Organizational Policies on Web Accessibility]({{ "/plan/org-policies/" | relative_url }})
-- [Involving Users in Web Projects for Better, Easier Accessibility]({{ "/plan/involving-users/" | relative_url }})
+- [Developing Organizational Policies on Web Accessibility]({{ "/planning/org-policies/" | relative_url }})
+- [Involving Users in Web Projects for Better, Easier Accessibility]({{ "/planning/involving-users/" | relative_url }})
 
 ## Design & Develop
 
