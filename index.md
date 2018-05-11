@@ -1,6 +1,7 @@
 ---
 title: WAI Site Map
 permalink: /sitemap/
+partent: "/"
 layout: default
 ---
 
