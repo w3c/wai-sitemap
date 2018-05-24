@@ -1,7 +1,9 @@
 ---
 title: WAI Site Map
 permalink: /sitemap/
-partent: "/"
+parent: "/"
+github:
+  repository: w3c/wai-sitemap
 layout: default
 ---
 
