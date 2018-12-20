@@ -29,30 +29,33 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 
 - [WAI News]({{ "/news/" | relative_url }})
 - [Search]({{ "/search/" | relative_url }})
-- [Translations](https://www.w3.org/WAI/wai-translations)
+- [Get resources for…](https://www.w3.org/WAI/roles/)
+{% comment %}@@ when done!
+- [All Translations](https://www.w3.org/WAI/@@)
+{% endcomment %}
 
 ### About W3C WAI
 
-{% comment %}
-@@ need to figure out if will have three pages like currently &mdash; [Getting Involved with WAI]({{ "/get-involved/" | relative_url }}),[Participating in WAI]( https://www.w3.org/WAI/participation), [WAI Mission and Organization]( {{ "/about" | relative_url }}) &mdash; or munge into 2.
-{% endcomment %}
-
-- [Accessibility Guidelines Working Group (AGWG)]({{ "/about/groups/agwg/" | relative_url }})
-- [Accessible Platform Architectures Working Group (APA)]({{ "/about/groups/apawg/" | relative_url }})
-- [Accessible Rich Internet Applications Working Group (ARIA)]({{ "/about/groups/ariawg/" | relative_url }})
-- [Education & Outreach Working Group (EOWG)]({{ "/about/groups/eowg/" | relative_url }})
-- [WAI Interest Group (WAI IG)]({{ "/about/groups/waiig/" | relative_url }})
-- [Group Task Forces]({{ "/about/groups/taskforces/" | relative_url }})
+- [About W3C WAI](https://www.w3.org/WAI/about/)
+- [Participating in WAI](https://www.w3.org/WAI/about/participating/)
 - [Translating WAI Documents]({{ "/about/translating/" | relative_url }})
 - [Contacting WAI]({{ "/about/contacting/" | relative_url }})
 - [Sponsoring WAI]({{ "/about/sponsoring/" | relative_url }})
-- [Using WAI Material](https://www.w3.org/WAI/about/usingWAImaterial)
-- [Getting WAI Announcements](https://www.w3.org/WAI/about/releases) {% comment %} [@@add into this page the info from [About RSS](https://www.w3.org/WAI/highlights/about-rss)] {% endcomment %}
+- [WAI Projects](https://www.w3.org/WAI/about/projects/)
+- [WAI Working Groups and Interest Groups](https://www.w3.org/WAI/about/groups/)
+   - [Accessibility Guidelines Working Group (AGWG)]({{ "/about/groups/agwg/" | relative_url }})
+   - [Accessible Platform Architectures Working Group (APA)]({{ "/about/groups/apawg/" | relative_url }})
+   - [Accessible Rich Internet Applications Working Group (ARIA)]({{ "/about/groups/ariawg/" | relative_url }})
+   - [Education & Outreach Working Group (EOWG)]({{ "/about/groups/eowg/" | relative_url }})
+   - [WAI Interest Group (WAI IG)]({{ "/about/groups/waiig/" | relative_url }})
+   - [Group Task Forces]({{ "/about/groups/taskforces/" | relative_url }})
+- [Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/usingWAImaterial)
+- [Accessibility Statement for WAI Website](https://www.w3.org/WAI/about/accessibility-statement/)
 
 ## Accessibility Fundamentals
 
 - [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})
-    -   [Video Introduction to Web Accessibility and W3C Standards]( https://www.w3.org/WAI/videos/standards-and-benefits)
+    -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits)
 - [Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }})
 - [Accessibility Principles]({{ "/fundamentals/accessibility-principles/" | relative_url }})
 - [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspectives/" | relative_url }})
@@ -67,18 +70,21 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 
 ## Planning & Policies
 
+- [Planning and Policies Overview](https://www.w3.org/WAI/planning/)
 - [Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/planning/interim-repairs/" | relative_url }})
 - [Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }})
   -  [Initiate]({{ "/planning-and-managing/initiate/" | relative_url }})
   -  [Plan]({{ "/planning-and-managing/plan/" | relative_url }})
   -  [Implement]({{ "/planning-and-managing/implement/" | relative_url }})
   -  [Sustain]({{ "/planning-and-managing/sustain/" | relative_url }})
-- [International Laws & Policies]({{ "/policies/" | relative_url }})
 - [Developing Organizational Policies on Web Accessibility]({{ "/planning/org-policies/" | relative_url }})
+- [Developing an Accessibility Statement]({{ "/planning/statements/" | relative_url }})
 - [Involving Users in Web Projects for Better, Easier Accessibility]({{ "/planning/involving-users/" | relative_url }})
+- [International Laws & Policies]({{ "/policies/" | relative_url }})
 
 ## Design & Develop
 
+- [Design and Develop Overview](https://www.w3.org/WAI/design-develop/)
 - [Tips for Writing for Web Accessibility]({{ "/tips/writing/" | relative_url }})
 - [Tips for Designing for Web Accessibility]({{ "/tips/designing/" | relative_url }})
 - [Tips for Developing for Web Accessibility]({{ "/tips/developing/" | relative_url }})
@@ -90,7 +96,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
     -   [Forms Tutorial ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/forms/)
     -   [Carousels Tutorial ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/carousels/)
 
-- ## Test & Evaluate
+## Test & Evaluate
 
 - [Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }})
 - [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }})
@@ -106,19 +112,20 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 
 ## Teach & Advocate
 
+- [Teach and Advocate Overview](https://www.w3.org/WAI/teach-advocate/
 - [How to Make Your Presentations Accessible to All]({{ "/teach-advocate/accessible-presentations/" | relative_url }})
-- [Developing Web Accessibility Presentations and Training](https://www.w3.org/WAI/training/Overview)
+- [Developing Web Accessibility Presentations and Training](https://www.w3.org/WAI/teach-advocate/accessibility-training/)
     -   [Accessibility Topics](https://www.w3.org/WAI/training/topics)
     -   [Presentation Outlines](https://www.w3.org/WAI/training/presentation-outlines)
     -   [Workshop Outline](https://www.w3.org/WAI/training/workshop-outlines)
 - [Before and After Demonstration (BAD)](https://www.w3.org/WAI/demos/bad/)
 - [Contacting Organizations about Inaccessible Websites]({{ "/teach-advocate/contact-inaccessible-websites/" | relative_url }})
-- [Developing a Web Accessibility Business Case for Your Organization: Overview]({{ "/business-case/" | relative_url }})
+- [The Business Case for Digital Accessibility]({{ "/business-case/" | relative_url }})
 
 ## Standards/Guidelines
 
-- [Standards Overview]({{ "/standards-guidelines/" | relative_url }})
-- [Web Content Accessibility Guidelines (WCAG) Overview]({{ "/standards-guidelines/wcag/" | relative_url }}){#wcag}
+- [W3C Accessibility Standards Overview]({{ "/standards-guidelines/" | relative_url }})
+- [Web Content Accessibility Guidelines (WCAG) Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
     -   WCAG 2.0 technical documents
            -   [How to Meet WCAG 2.0: A customizable quick reference ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/WCAG20/quickref/)
            -   [Web Content Accessibility Guidelines 2.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/WCAG20/)
@@ -231,11 +238,11 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
     -   [Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap) ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/wai-aria-roadmap/)
 - EARL
     -   [Requirements for the Evaluation and Report Language (EARL) 1.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/EARL10-Requirements/)
-    -   [Evaluation And Report Language (EARL) 1.0 Schema ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/EARL10-Schema/){.external}
-    -   [HTTP Vocabulary in RDF ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/ER/HTTP-in-RDF/){.external}
-    -   [Representing Content in RDF ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/ER/Content-in-RDF/){.external}
-    -   [Pointer Methods in RDF ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/ER/Pointers-in-RDF/){.external}
-    -   [Evaluation And Report Language (EARL) 1.0 Guide ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/ER/EARL10-Guide/){.external}
+    -   [Evaluation And Report Language (EARL) 1.0 Schema ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/EARL10-Schema/)
+    -   [HTTP Vocabulary in RDF ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/ER/HTTP-in-RDF/)
+    -   [Representing Content in RDF ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/ER/Content-in-RDF/)
+    -   [Pointer Methods in RDF ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/ER/Pointers-in-RDF/)
+    -   [Evaluation And Report Language (EARL) 1.0 Guide ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/ER/EARL10-Guide/)
     -   [EARL Resources](https://www.w3.org/WAI/ER/earl)
 
 {% include excol.html type="end" %}
@@ -245,13 +252,19 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 
 {% include excol.html type="middle" %}
 
+- [Developing a Web Accessibility Business Case for Your Organization]( https://www.w3.org/WAI/business-case/archive/)
+   - [Social Factors in Developing a Web Accessibility Business Case for Your Organization](https://www.w3.org/WAI/business-case/archive/soc)
+   - [Technical Factors in Developing a Web Accessibility Business Case for Your Organization](https://www.w3.org/WAI/business-case/archive/tech)
+   - [Financial Factors in Developing a Web Accessibility Business Case for Your Organization](https://www.w3.org/WAI/business-case/archive/fin)
+   - [Legal and Policy Factors in Developing a Web Accessibility Business Case for Your Organization](https://www.w3.org/WAI/business-case/archive/pol)
+   - [Resources for Developing a Web Accessibility Business Case for Your Organization](https://www.w3.org/WAI/business-case/archive/resources)
 - Overlap Between Mobile and Accessibility
     -   [Web Content Accessibility and Mobile Web: Making a Web Site Accessible Both for People with Disabilities and for Mobile Devices](https://www.w3.org/WAI/mobile/overlap)
     -   [Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities](https://www.w3.org/WAI/mobile/experiences)
     -   [Relationship between Mobile Web Best Practices (MWBP) and Web Content Accessibility Guidelines (WCAG) ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/mwbp-wcag/)
 - [Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing)
 - @@old RDWG stuff
-- Accessibility Information for Specific Technologies (https://www.w3.org/WAI/specific-techs)
+- [Accessibility Information for Specific Technologies](https://www.w3.org/WAI/specific-techs)
 
 {% include excol.html type="end" %}
 {% include excol.html type="start" id="" %}
