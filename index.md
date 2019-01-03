@@ -161,6 +161,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 {% comment %}
     -    @@check with Shadi if EARL documents listed under Archive should actually be here – or if the overview listed here should be in archive?
 {% endcomment %}
+    -   [Accessibility Conformance Testing (ACT) Overview]({{ "/standards-guidelines/act/" | relative_url }})
 - [Mobile Accessibility at W3C]({{ "/standards-guidelines/mobile/" | relative_url }})
 - [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
 - [Referencing and Linking to WAI Standards and Technical Documents]({{ "/standards-guidelines/linking/" | relative_url }})
