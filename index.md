@@ -5,6 +5,7 @@ parent: "/"
 github:
   repository: w3c/wai-sitemap
 layout: default
+feedbackmail: wai@w3.org
 ---
 
 {::options toc_levels="2" /}
