@@ -127,19 +127,19 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 
 - [W3C Accessibility Standards Overview]({{ "/standards-guidelines/" | relative_url }})
 - [Web Content Accessibility Guidelines (WCAG) Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
-    -   WCAG 2.0 technical documents
-           -   [How to Meet WCAG 2.0: A customizable quick reference ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/WCAG20/quickref/)
-           -   [Web Content Accessibility Guidelines 2.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/WCAG20/)
-           -   [Understanding WCAG 2.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
-           -   [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)[![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/WCAG20-GENERAL/)
-           -   [W3C WCAG 2.0 Conformance Logos](https://www.w3.org/WAI/WCAG2-Conformance)
-           -   [WCAG 2.0 Translations](https://www.w3.org/WAI/WCAG20/translations)
+    -   WCAG 2 technical documents
+           -   [How to Meet WCAG (Quick Reference) ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/WCAG20/quickref/)
+           -   [Web Content Accessibility Guidelines 2.1 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/WCAG21/)
+           -   [Understanding WCAG 2.1 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/WCAG21/Understanding/)
+           -   [Techniques for WCAG 2.1](https://www.w3.org/TR/WCAG20-TECHS/)[![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/WCAG21/Techniques/)
+           -   [W3C WCAG Conformance Logos](https://www.w3.org/WAI/WCAG2-Conformance)
+           -   [WCAG Translations](https://www.w3.org/WAI/WCAG20/translations)
     -   WCAG 2.0 educational documents
-           -   [The WCAG 2.0 Documents](https://www.w3.org/WAI/intro/wcag20.php)
-           -   [WCAG 2.0 at a Glance](https://www.w3.org/WAI/WCAG20/glance/)
-           -   [WCAG 2 FAQ](https://www.w3.org/WAI/WCAG20/wcag2faq)
+           -   [The WCAG Documents](https://www.w3.org/WAI/intro/wcag20.php)
+           -   [WCAG 2.1 at a Glance](https://www.w3.org/WAI/WCAG20/glance/)
+           -   [WCAG FAQ](https://www.w3.org/WAI/WCAG20/wcag2faq)
 {% comment %}           -   [WCAG 2.0 Presentations](@@) {% endcomment %}
-    -   WCAG 2.0 Submission forms
+    -   WCAG Submission forms
            -   [Techniques for WCAG 2.0 submission form ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/)
            -   [Instructions for Commenting on WCAG 2.0 Documents](https://www.w3.org/WAI/WCAG20/comments/)
 
