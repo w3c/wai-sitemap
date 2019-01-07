@@ -113,7 +113,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 
 ## Teach & Advocate
 
-- [Teach and Advocate Overview](https://www.w3.org/WAI/teach-advocate/
+- [Teach and Advocate Overview](https://www.w3.org/WAI/teach-advocate/)
 - [How to Make Your Presentations Accessible to All]({{ "/teach-advocate/accessible-presentations/" | relative_url }})
 - [Developing Web Accessibility Presentations and Training](https://www.w3.org/WAI/teach-advocate/accessibility-training/)
     -   [Accessibility Topics](https://www.w3.org/WAI/training/topics)
@@ -149,7 +149,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
     -   [Implementation Techniques for ATAG 2.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/ATAG20-TECHS/)
 - [User Agent Accessibility Guidelines (UAAG) Overview]({{ "/standards-guidelines/uaag/" | relative_url }}){#uaag}
     -   [User Agent Accessibility Guidelines 2.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/UAAG20/)
-    -   [[Requirements for UAAG 2.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/UAAG20-requirements/)]
+    -   [Requirements for UAAG 2.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/UAAG20-requirements/)
 - [WAI-ARIA (Accessible Rich Internet Applications) Suite Overview]({{ "/standards-guidelines/aria/" | relative_url }})
     -   [WAI-ARIA FAQ](https://www.w3.org/WAI/ARIA/faq)
     -   [Accessible Rich Internet Applications (WAI-ARIA) Version 1.1 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/wai-aria/)
