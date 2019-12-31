@@ -15,9 +15,8 @@ feedbackmail: wai@w3.org
 {:/}
 
 -   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
+{: นายสุรชัย (P) SAIWONG [ÆPkañ]}
+{:: nomarkdown}
 {% include toc.html type="end" %}
 {:/}
 
