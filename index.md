@@ -31,9 +31,16 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 - [WAI News]({{ "/news/" | relative_url }})
 - [Search]({{ "/search/" | relative_url }})
 - [Get resources for…](https://www.w3.org/WAI/roles/)
-{% comment %}@@ when done!
-- [All Translations](https://www.w3.org/WAI/@@)
-{% endcomment %}
+   - [Content Writers](/roles/writers/)
+   - [Designers](/roles/designers/)
+   - [Developers](/roles/developers/)
+   - [Evaluators, Testers](/roles/testers/)
+   - [Managers](/roles/managers/)
+   - [Policy Makers](/roles/policy-makers/)
+   - [Trainers, Educators](/roles/trainers/)
+   - [Web Users, People with Disabilities, Advocates](/roles/users/)
+   - [Other Languages](/translations/)
+- [All Translations](https://www.w3.org/WAI/translations)
 
 ### About W3C WAI
 
@@ -42,7 +49,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 - [Translating WAI Documents]({{ "/about/translating/" | relative_url }})
 - [Contacting WAI]({{ "/about/contacting/" | relative_url }})
 - [Sponsoring WAI]({{ "/about/sponsoring/" | relative_url }})
-- [WAI Projects](https://www.w3.org/WAI/about/projects/)
+- [WAI Projects](https://www.w3.org/WAI/about/projects/) &mdash; lists current and past projects
 - [WAI Working Groups and Interest Groups](https://www.w3.org/WAI/about/groups/)
    - [Accessibility Guidelines Working Group (AGWG)]({{ "/about/groups/agwg/" | relative_url }})
    - [Accessible Platform Architectures Working Group (APA)]({{ "/about/groups/apawg/" | relative_url }})
@@ -59,7 +66,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
     -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits)
 - [Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }})
 - [Accessibility Principles]({{ "/fundamentals/accessibility-principles/" | relative_url }})
-- [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspectives/" | relative_url }})
+- [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspectives/" | relative_url }}) &mdash; 10 short videos
 - [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url }})
     -   [Stories of Web Users]({{ "/people-use-web/user-stories/" | relative_url }})
     -   [Diverse Abilities and Barriers]({{ "/people-use-web/abilities-barriers/" | relative_url }})
@@ -89,6 +96,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 - [Tips for Writing for Web Accessibility]({{ "/tips/writing/" | relative_url }})
 - [Tips for Designing for Web Accessibility]({{ "/tips/designing/" | relative_url }})
 - [Tips for Developing for Web Accessibility]({{ "/tips/developing/" | relative_url }})
+- [Making Audio and Video Media Accessible]({{ "/media/av/" | relative_url }}) 
 - [Web Accessibility Tutorials ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/)
     -   [Page Structure Tutorial ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/page-structure/)
     -   [Menus Tutorial ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/menus/)
@@ -99,15 +107,16 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 
 ## Test & Evaluate
 
-- [Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }})
+- [Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }}) &mdash; with 5 short videos
 - [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }})
 - [Evaluation Tools]({{ "/test-evaluate/tools/" | relative_url }})
     -   [Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/eval/selectingtools)
     -   [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
-- [Conformance Evaluation]({{ "/test-evaluate/tools/" | relative_url }})
+- [Conformance Evaluation and Reports]({{ "/test-evaluate/conformance/" | relative_url }})
     -   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]({{ "/test-evaluate/conformance/wcag-em/" | relative_url }})
     -   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
-- [Template for Accessibility Evaluation Reports]({{ "/test-evaluate/report-template/" | relative_url }})
+    -   [Template for Accessibility Evaluation Reports]({{ "/test-evaluate/report-template/" | relative_url }})
+    -   [ATAG Report Tool![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
 - [Using Combined Expertise to Evaluate Web Accessibility]({{ "/test-evaluate/combined-expertise/" | relative_url }})
 - [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }})
 
@@ -115,6 +124,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 
 - [Teach and Advocate Overview](https://www.w3.org/WAI/teach-advocate/)
 - [How to Make Your Presentations Accessible to All]({{ "/teach-advocate/accessible-presentations/" | relative_url }})
+- [Curricula on Web Accessibility: A Framework to Build Your Own Courses]({{ "/curricula/" | relative_url }})
 - [Developing Web Accessibility Presentations and Training](https://www.w3.org/WAI/teach-advocate/accessibility-training/)
     -   [Accessibility Topics](https://www.w3.org/WAI/training/topics)
     -   [Presentation Outlines](https://www.w3.org/WAI/training/presentation-outlines)
@@ -156,23 +166,25 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 {% comment %}
     -   @@ need to add new ones – and confirm with Michael if anything currently listed under Archive should be here instead…
 {% endcomment %}
-
 - Evaluation Standards – ACT and EARL
+    -   [Accessibility Conformance Testing (ACT) Overview]({{ "/standards-guidelines/act/" | relative_url }})
     -   [Evaluation and Report Language (EARL) Overview]({{ "/standards-guidelines/earl/" | relative_url }})
 {% comment %}
-    -    @@check with Shadi if EARL documents listed under Archive should actually be here – or if the overview listed here should be in archive?
+    -    @@check with Shadi if EARL documents listed under Archive should actually be here
 {% endcomment %}
-    -   [Accessibility Conformance Testing (ACT) Overview]({{ "/standards-guidelines/act/" | relative_url }})
-- [Mobile Accessibility at W3C]({{ "/standards-guidelines/mobile/" | relative_url }})
+- [Personalization Overview](https://www.w3.org/WAI/personalization)
+- [Pronunciation Overview](https://www.w3.org/WAI/pronunciation)
 - [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
-- [Referencing and Linking to WAI Standards and Technical Documents]({{ "/standards-guidelines/linking/" | relative_url }})
 - [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute]({{ "/standards-guidelines/w3c-process/" | relative_url }})
-
-{% include excol.html type="all" %}
+- [Referencing and Linking to WAI Standards and Technical Documents]({{ "/standards-guidelines/linking/" | relative_url }})
+- [Cognitive Accessibility at W3C]({{ "/standards-guidelines/cognitive/" | relative_url }})
+- [Mobile Accessibility at W3C]({{ "/standards-guidelines/mobile/" | relative_url }})
 
 {% include excol.html type="start" %}
 
 ## Archive
+
+{% include excol.html type="all" %}
 
 {% include excol.html type="middle" %}
 
@@ -265,7 +277,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
     -   [Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities](https://www.w3.org/WAI/mobile/experiences)
     -   [Relationship between Mobile Web Best Practices (MWBP) and Web Content Accessibility Guidelines (WCAG) ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/mwbp-wcag/)
 - [Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing)
-- @@old RDWG stuff
+- @@old RDWG material
 - [Accessibility Information for Specific Technologies](https://www.w3.org/WAI/specific-techs)
 
 {% include excol.html type="end" %}
@@ -283,17 +295,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
     -   [Protocols and Formats Working Group (PFWG)](https://www.w3.org/WAI/PF/)
     -   [Research and Development Working Group (RDWG)](https://www.w3.org/WAI/RD/)
     -   [User Agent Accessibility Guidelines Working Group     (UAWG)](https://www.w3.org/WAI/UA/)
-@@ how to handle that some projects are active and some are archive?
-- [WAI Projects](https://www.w3.org/WAI/about/projects)
-    -   [WAI-Core 2015](https://www.w3.org/WAI/CORE2015/)
-    -   [WAI-Core 2010](https://www.w3.org/WAI/Core/)
-    -   [WCAG TA](https://www.w3.org/WAI/WCAGTA/)
-    -   [WAI-DEV Project Reference](https://www.w3.org/WAI/DEV/)
-    -   [WAI-ACT Project Reference](https://www.w3.org/WAI/ACT/)
-    -   [WAI-AGE Project Reference](https://www.w3.org/WAI/WAI-AGE/)
-    -   [WAI-TIES Project Reference](https://www.w3.org/WAI/TIES/)
-    -   [WAI-DA Project Reference Guide ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/WAIDA/)
-    -   [WAI-DE / WAI-TIDE Final report ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/TIDE/FR2.htm)
+- [WAI Projects](https://www.w3.org/WAI/about/projects) &mdash; lists current and past projects
 
 {% include excol.html type="end" %}
 {% include excol.html type="end" %}
