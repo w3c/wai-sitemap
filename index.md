@@ -39,7 +39,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
    - [Policy Makers](/roles/policy-makers/)
    - [Trainers, Educators](/roles/trainers/)
    - [Web Users, People with Disabilities, Advocates](/roles/users/)
-   - [Other Languages](/translations/)
+   - [Other Languages](https://www.w3.org/WAI/translations/)
 - [All Translations](https://www.w3.org/WAI/translations)
 
 ### About W3C WAI
