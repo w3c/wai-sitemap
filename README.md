@@ -1,3 +1,1 @@
-# Sitemap
-
-Preview draft at: https://w3c.github.io/wai-sitemap/sitemap/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c6e99c5-1968-402f-88d6-30156725cae0/deploy-status)](https://app.netlify.com/sites/wai-sitemap/deploys)
