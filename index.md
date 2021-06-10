@@ -64,6 +64,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 
 - [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})
     -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits)
+- [Digital Accessibility Foundations &mdash; Free Online Course](/fundamentals/foundations-course/)
 - [Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }})
 - [Accessibility Principles]({{ "/fundamentals/accessibility-principles/" | relative_url }})
 - [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspectives/" | relative_url }}) &mdash; 10 short videos
