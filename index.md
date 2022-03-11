@@ -45,11 +45,8 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 ### About W3C WAI
 
 - [About W3C WAI](https://www.w3.org/WAI/about/)
+- [What We're Working On - Accessibility Activities and Publications](https://www.w3.org/WAI/update/)
 - [Participating in WAI](https://www.w3.org/WAI/about/participating/)
-- [Translating WAI Documents]({{ "/about/translating/" | relative_url }})
-- [Contacting WAI]({{ "/about/contacting/" | relative_url }})
-- [Sponsoring WAI]({{ "/about/sponsoring/" | relative_url }})
-- [WAI Projects](https://www.w3.org/WAI/about/projects/) &mdash; lists current and past projects
 - [WAI Working Groups and Interest Groups](https://www.w3.org/WAI/about/groups/)
    - [Accessibility Guidelines Working Group (AGWG)]({{ "/about/groups/agwg/" | relative_url }})
    - [Accessible Platform Architectures Working Group (APA)]({{ "/about/groups/apawg/" | relative_url }})
@@ -57,8 +54,12 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
    - [Education & Outreach Working Group (EOWG)]({{ "/about/groups/eowg/" | relative_url }})
    - [WAI Interest Group (WAI IG)]({{ "/about/groups/waiig/" | relative_url }})
    - [Group Task Forces]({{ "/about/groups/taskforces/" | relative_url }})
-- [Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/usingWAImaterial)
+- [Translating WAI Documents]({{ "/about/translating/" | relative_url }})
+- [Sponsoring WAI]({{ "/about/sponsoring/" | relative_url }})
+- [Contacting WAI]({{ "/about/contacting/" | relative_url }})
+- [WAI Projects](https://www.w3.org/WAI/about/projects/) &mdash; lists current and past projects
 - [Accessibility Statement for WAI Website](https://www.w3.org/WAI/about/accessibility-statement/)
+- [Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/usingWAImaterial)
 
 ## Accessibility Fundamentals
 
@@ -149,7 +150,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
            -   [The WCAG Documents](https://www.w3.org/WAI/intro/wcag20.php)
            -   [WCAG 2.1 at a Glance](https://www.w3.org/WAI/WCAG20/glance/)
            -   [WCAG FAQ](https://www.w3.org/WAI/WCAG20/wcag2faq)
-{% comment %}           -   [WCAG 2.0 Presentations](@@) {% endcomment %}
+        {% comment %}           -   [WCAG 2.0 Presentations](@@) {% endcomment %}
     -   WCAG Submission forms
            -   [Techniques for WCAG 2.0 submission form ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/)
            -   [Instructions for Commenting on WCAG 2.0 Documents](https://www.w3.org/WAI/WCAG20/comments/)
@@ -164,15 +165,15 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 - [WAI-ARIA (Accessible Rich Internet Applications) Suite Overview]({{ "/standards-guidelines/aria/" | relative_url }})
     -   [WAI-ARIA FAQ](https://www.w3.org/WAI/ARIA/faq)
     -   [Accessible Rich Internet Applications (WAI-ARIA) Version 1.1 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/wai-aria/)
-{% comment %}
+    {% comment %}
     -   @@ need to add new ones – and confirm with Michael if anything currently listed under Archive should be here instead…
-{% endcomment %}
+    {% endcomment %}
 - Evaluation Standards – ACT and EARL
     -   [Accessibility Conformance Testing (ACT) Overview]({{ "/standards-guidelines/act/" | relative_url }})
     -   [Evaluation and Report Language (EARL) Overview]({{ "/standards-guidelines/earl/" | relative_url }})
-{% comment %}
+    {% comment %}
     -    @@check with Shadi if EARL documents listed under Archive should actually be here
-{% endcomment %}
+    {% endcomment %}
 - [Personalization Overview](https://www.w3.org/WAI/personalization)
 - [Pronunciation Overview](https://www.w3.org/WAI/pronunciation)
 - [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
