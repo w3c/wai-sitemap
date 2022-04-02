@@ -1,5 +1,6 @@
 ---
 title: WAI Site Map
+lang: en
 permalink: /sitemap/
 parent: "/"
 github:
@@ -45,7 +46,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 ### About W3C WAI
 
 - [About W3C WAI](https://www.w3.org/WAI/about/)
-- [What We're Working On - Accessibility Activities and Publications](https://www.w3.org/WAI/update/)
+- **[What We're Working On - Accessibility Activities and Publications](https://www.w3.org/WAI/update/)**
 - [Participating in WAI](https://www.w3.org/WAI/about/participating/)
 - [WAI Working Groups and Interest Groups](https://www.w3.org/WAI/about/groups/)
    - [Accessibility Guidelines Working Group (AGWG)]({{ "/about/groups/agwg/" | relative_url }})
@@ -99,13 +100,13 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 - [Tips for Designing for Web Accessibility]({{ "/tips/designing/" | relative_url }})
 - [Tips for Developing for Web Accessibility]({{ "/tips/developing/" | relative_url }})
 - [Making Audio and Video Media Accessible]({{ "/media/av/" | relative_url }}) 
-- [Web Accessibility Tutorials ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/)
-    -   [Page Structure Tutorial ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/page-structure/)
-    -   [Menus Tutorial ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/menus/)
-    -   [Images Tutorial ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/images/)
-    -   [Tables Tutorial ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/tables/)
-    -   [Forms Tutorial ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/forms/)
-    -   [Carousels Tutorial ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/tutorials/carousels/)
+- [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+    -   [Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)
+    -   [Menus Tutorial](https://www.w3.org/WAI/tutorials/menus/)
+    -   [Images Tutorial](https://www.w3.org/WAI/tutorials/images/)
+    -   [Tables Tutorial](https://www.w3.org/WAI/tutorials/tables/)
+    -   [Forms Tutorial](https://www.w3.org/WAI/tutorials/forms/)
+    -   [Carousels Tutorial](https://www.w3.org/WAI/tutorials/carousels/)
 
 ## Test & Evaluate
 
@@ -119,7 +120,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
     -   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
     -   [Template for Accessibility Evaluation Reports]({{ "/test-evaluate/report-template/" | relative_url }})
     -   [ATAG Report Tool![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
-- [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about/), [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
+- [About WCAG 2 Test Rules![different format](https://www.w3.org/Icons/tr.png)](/standards-guidelines/act/rules/about/), [All WCAG 2 Test Rules List![different format](https://www.w3.org/Icons/tr.png)](/standards-guidelines/act/rules/)
 - [Using Combined Expertise to Evaluate Web Accessibility]({{ "/test-evaluate/combined-expertise/" | relative_url }})
 - [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }})
 
@@ -181,7 +182,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 - [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute]({{ "/standards-guidelines/w3c-process/" | relative_url }})
 - [Referencing and Linking to WAI Standards and Technical Documents]({{ "/standards-guidelines/linking/" | relative_url }})
 - [Cognitive Accessibility at W3C]({{ "/standards-guidelines/cognitive/" | relative_url }})
-    -   [Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance), [About Supplemental Guidance](/WCAG2/supplemental/about/)
+    -   [Cognitive Accessibility Guidance![different format](https://www.w3.org/Icons/tr.png)](/WCAG2/supplemental/#cognitiveaccessibilityguidance), [About Supplemental Guidance![different format](https://www.w3.org/Icons/tr.png)](/WCAG2/supplemental/about/)
 - [Mobile Accessibility at W3C]({{ "/standards-guidelines/mobile/" | relative_url }})
 
 {% include excol.html type="start" %}
