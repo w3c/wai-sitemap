@@ -119,6 +119,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
     -   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
     -   [Template for Accessibility Evaluation Reports]({{ "/test-evaluate/report-template/" | relative_url }})
     -   [ATAG Report Tool![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
+- [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about/), [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
 - [Using Combined Expertise to Evaluate Web Accessibility]({{ "/test-evaluate/combined-expertise/" | relative_url }})
 - [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }})
 
@@ -180,6 +181,7 @@ Resources](https://www.w3.org/WAI/Resources/Overview).
 - [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute]({{ "/standards-guidelines/w3c-process/" | relative_url }})
 - [Referencing and Linking to WAI Standards and Technical Documents]({{ "/standards-guidelines/linking/" | relative_url }})
 - [Cognitive Accessibility at W3C]({{ "/standards-guidelines/cognitive/" | relative_url }})
+    -   [Cognitive Accessibility Guidance](/WCAG2/supplemental/#cognitiveaccessibilityguidance), [About Supplemental Guidance](/WCAG2/supplemental/about/)
 - [Mobile Accessibility at W3C]({{ "/standards-guidelines/mobile/" | relative_url }})
 
 {% include excol.html type="start" %}
