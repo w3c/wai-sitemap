@@ -9,6 +9,16 @@ layout: default
 feedbackmail: wai@w3.org
 ---
 
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This is a plain list of pages on the WAI website. Instead, you might want to get a list with short descriptions of all the primary content. For that, go to **[[WAI Resources]](https://www.w3.org/WAI/Resources/Overview).**
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 {::options toc_levels="2" /}
 
 {::nomarkdown}
@@ -22,10 +32,7 @@ feedbackmail: wai@w3.org
 {% include toc.html type="end" %}
 {:/}
 
-{% comment %}
-See also: [annotated list of primary WAI
-Resources](https://www.w3.org/WAI/Resources/Overview).
-{% endcomment %}
+_To get short descriptions of primary content, see [WAI Resources](https://www.w3.org/WAI/Resources/Overview)._
 
 ## [Web Accessibility Initiative (WAI) Home]({{ "/" | relative_url }})
 
