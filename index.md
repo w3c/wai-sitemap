@@ -19,7 +19,7 @@ This is a plain list of pages on the WAI website. Instead, you might want to get
 {% include box.html type="end" %}
 {:/}
 
-{::options toc_levels="2,3" /}
+{::options toc_levels="2" /}
 
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
