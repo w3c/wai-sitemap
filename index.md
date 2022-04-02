@@ -76,7 +76,7 @@ _To get short descriptions of primary content, see [[WAI Resources]](/resources/
 - [Digital Accessibility Foundations &mdash; Free Online Course]({{ "/fundamentals/foundations-course/" | relative_url }})
 - [Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }})
 - [Accessibility Principles]({{ "/fundamentals/accessibility-principles/" | relative_url }})
-- [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspectives/" | relative_url }}) &mdash; 10 short videos
+- [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspective-videos/" | relative_url }}) &mdash; 10 short videos
 - [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url }})
     -   [Stories of Web Users]({{ "/people-use-web/user-stories/" | relative_url }})
     -   [Diverse Abilities and Barriers]({{ "/people-use-web/abilities-barriers/" | relative_url }})
@@ -188,7 +188,7 @@ _To get short descriptions of primary content, see [[WAI Resources]](/resources/
 - [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
 - [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute]({{ "/standards-guidelines/w3c-process/" | relative_url }})
 - [Referencing and Linking to WAI Standards and Technical Documents]({{ "/standards-guidelines/linking/" | relative_url }})
-- [Cognitive Accessibility at W3C]({{ "/standards-guidelines/cognitive/" | relative_url }})
+- [Cognitive Accessibility at W3C]({{ "/cognitive/" | relative_url }})
     -   [Cognitive Accessibility Guidance![different format](https://www.w3.org/Icons/tr.png)](/WCAG2/supplemental/#cognitiveaccessibilityguidance), [About Supplemental Guidance![different format](https://www.w3.org/Icons/tr.png)](/WCAG2/supplemental/about/)
 - [Mobile Accessibility at W3C]({{ "/standards-guidelines/mobile/" | relative_url }})
 
