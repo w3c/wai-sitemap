@@ -73,18 +73,21 @@ _To get short descriptions of primary content, see [[WAI Resources]](/resources/
 
 - [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})
     -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits)
-- [Digital Accessibility Foundations &mdash; Free Online Course]({{ "/fundamentals/foundations-course/" | relative_url }})
+- [Accessibility: It's About People]({{ "/people/" | relative_url }})
+    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspective-videos/" | relative_url }}) &mdash; 10 short videos
+    -   [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url }})
+          -   [Stories of Web Users]({{ "/people-use-web/user-stories/" | relative_url }})
+          -   [Diverse Abilities and Barriers]({{ "/people-use-web/abilities-barriers/" | relative_url }})
+          -   [Tools and Techniques]({{ "/people-use-web/tools-techniques/" | relative_url }})
+    -   [Older Users and Accessibility: Meeting the Needs of Ageing Web Users]({{ "/older-users/" | relative_url }})
+          -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies]({{ "/older-users/developing/" | relative_url }})
+          -   [Overview of "Web Accessibility for Older Users: A Literature Review"]({{ "/older-users/literature/" | relative_url }})
+    -   [Accessibility, Usability, Inclusion]({{ "/fundamentals/accessibility-usability-inclusion/" | relative_url }})
 - [Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }})
 - [Accessibility Principles]({{ "/fundamentals/accessibility-principles/" | relative_url }})
-- [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspective-videos/" | relative_url }}) &mdash; 10 short videos
-- [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url }})
-    -   [Stories of Web Users]({{ "/people-use-web/user-stories/" | relative_url }})
-    -   [Diverse Abilities and Barriers]({{ "/people-use-web/abilities-barriers/" | relative_url }})
-    -   [Tools and Techniques]({{ "/people-use-web/tools-techniques/" | relative_url }})
-- [Accessibility, Usability, Inclusion]({{ "/fundamentals/accessibility-usability-inclusion/" | relative_url }})
-- [Older Users and Accessibility: Meeting the Needs of Ageing Web Users]({{ "/older-users/" | relative_url }})
-    -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies]({{ "/older-users/developing/" | relative_url }})
-    -   [Overview of "Web Accessibility for Older Users: A Literature Review"]({{ "/older-users/literature/" | relative_url }})
+- Digital Accessibility Courses
+    -   [Digital Accessibility Foundations &mdash; Free Online Course]({{ "/courses/foundations-course/" | relative_url }})
+    -   [Course List of Digital Accessibility Education, Training, and Certification]({{ "/courses/list/" | relative_url }})
 
 ## Planning & Policies
 
