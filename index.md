@@ -119,17 +119,19 @@ _To get short descriptions of primary content, see [[WAI Resources]](/resources/
 
 - [Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }}) &mdash; with 5 short videos
 - [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }})
-- [Evaluation Tools]({{ "/test-evaluate/tools/" | relative_url }})
+- Evaluation Tools
     -   [Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/eval/selectingtools)
     -   [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
-- [Conformance Evaluation and Reports]({{ "/test-evaluate/conformance/" | relative_url }})
+- Conformance Evaluation and Reports
     -   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]({{ "/test-evaluate/conformance/wcag-em/" | relative_url }})
     -   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
     -   [Template for Accessibility Evaluation Reports]({{ "/test-evaluate/report-template/" | relative_url }})
     -   [ATAG Report Tool![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
-- [About WCAG 2 Test Rules![different format](https://www.w3.org/Icons/tr.png)](/standards-guidelines/act/rules/about/), [All WCAG 2 Test Rules List![different format](https://www.w3.org/Icons/tr.png)](/standards-guidelines/act/rules/)
-- [Using Combined Expertise to Evaluate Web Accessibility]({{ "/test-evaluate/combined-expertise/" | relative_url }})
-- [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }})
+- For Developers of Test Tools and Methodologies
+    -   [About WCAG 2 Test Rules![different format](https://www.w3.org/Icons/tr.png)](/standards-guidelines/act/rules/about/), [All WCAG 2 Test Rules List![different format](https://www.w3.org/Icons/tr.png)](/standards-guidelines/act/rules/)
+- People
+    -   [Using Combined Expertise to Evaluate Web Accessibility]({{ "/test-evaluate/combined-expertise/" | relative_url }})
+    -   [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }})
 
 ## Teach & Advocate
 
