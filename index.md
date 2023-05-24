@@ -73,18 +73,21 @@ _To get short descriptions of primary content, see [[WAI Resources]](/resources/
 
 - [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})
     -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits)
-- [Digital Accessibility Foundations &mdash; Free Online Course]({{ "/fundamentals/foundations-course/" | relative_url }})
+- [Accessibility: It's About People]({{ "/people/" | relative_url }})
+    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspective-videos/" | relative_url }}) &mdash; 10 short videos
+    -   [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url }})
+          -   [Stories of Web Users]({{ "/people-use-web/user-stories/" | relative_url }})
+          -   [Diverse Abilities and Barriers]({{ "/people-use-web/abilities-barriers/" | relative_url }})
+          -   [Tools and Techniques]({{ "/people-use-web/tools-techniques/" | relative_url }})
+    -   [Older Users and Accessibility: Meeting the Needs of Ageing Web Users]({{ "/older-users/" | relative_url }})
+          -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies]({{ "/older-users/developing/" | relative_url }})
+          -   [Overview of "Web Accessibility for Older Users: A Literature Review"]({{ "/older-users/literature/" | relative_url }})
+    -   [Accessibility, Usability, Inclusion]({{ "/fundamentals/accessibility-usability-inclusion/" | relative_url }})
 - [Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }})
 - [Accessibility Principles]({{ "/fundamentals/accessibility-principles/" | relative_url }})
-- [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspective-videos/" | relative_url }}) &mdash; 10 short videos
-- [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url }})
-    -   [Stories of Web Users]({{ "/people-use-web/user-stories/" | relative_url }})
-    -   [Diverse Abilities and Barriers]({{ "/people-use-web/abilities-barriers/" | relative_url }})
-    -   [Tools and Techniques]({{ "/people-use-web/tools-techniques/" | relative_url }})
-- [Accessibility, Usability, Inclusion]({{ "/fundamentals/accessibility-usability-inclusion/" | relative_url }})
-- [Older Users and Accessibility: Meeting the Needs of Ageing Web Users]({{ "/older-users/" | relative_url }})
-    -   [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies]({{ "/older-users/developing/" | relative_url }})
-    -   [Overview of "Web Accessibility for Older Users: A Literature Review"]({{ "/older-users/literature/" | relative_url }})
+- Digital Accessibility Courses
+    -   [Digital Accessibility Foundations &mdash; Free Online Course]({{ "/courses/foundations-course/" | relative_url }})
+    -   [Course List of Digital Accessibility Education, Training, and Certification]({{ "/courses/list/" | relative_url }})
 
 ## Planning & Policies
 
@@ -119,17 +122,19 @@ _To get short descriptions of primary content, see [[WAI Resources]](/resources/
 
 - [Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }}) &mdash; with 5 short videos
 - [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }})
-- [Evaluation Tools]({{ "/test-evaluate/tools/" | relative_url }})
+- Evaluation Tools
     -   [Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/eval/selectingtools)
     -   [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
-- [Conformance Evaluation and Reports]({{ "/test-evaluate/conformance/" | relative_url }})
+- Conformance Evaluation and Reports
     -   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]({{ "/test-evaluate/conformance/wcag-em/" | relative_url }})
     -   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
     -   [Template for Accessibility Evaluation Reports]({{ "/test-evaluate/report-template/" | relative_url }})
     -   [ATAG Report Tool![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
-- [About WCAG 2 Test Rules![different format](https://www.w3.org/Icons/tr.png)](/standards-guidelines/act/rules/about/), [All WCAG 2 Test Rules List![different format](https://www.w3.org/Icons/tr.png)](/standards-guidelines/act/rules/)
-- [Using Combined Expertise to Evaluate Web Accessibility]({{ "/test-evaluate/combined-expertise/" | relative_url }})
-- [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }})
+- For Developers of Test Tools and Methodologies
+    -   [About WCAG 2 Test Rules![different format](https://www.w3.org/Icons/tr.png)](/standards-guidelines/act/rules/about/), [All WCAG 2 Test Rules List![different format](https://www.w3.org/Icons/tr.png)](/standards-guidelines/act/rules/)
+- People
+    -   [Using Combined Expertise to Evaluate Web Accessibility]({{ "/test-evaluate/combined-expertise/" | relative_url }})
+    -   [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }})
 
 ## Teach & Advocate
 
