@@ -177,8 +177,7 @@ _To get short descriptions of primary content, see [[WAI Resources]](/resources/
     -   [User Agent Accessibility Guidelines 2.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/UAAG20/)
     -   [Requirements for UAAG 2.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/UAAG20-requirements/)
 - [WAI-ARIA (Accessible Rich Internet Applications) Suite Overview]({{ "/standards-guidelines/aria/" | relative_url }})
-    -   [WAI-ARIA FAQ](https://www.w3.org/WAI/ARIA/faq)
-    -   [Accessible Rich Internet Applications (WAI-ARIA) Version 1.1 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/wai-aria/)
+    -   [Accessible Rich Internet Applications (WAI-ARIA) ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/wai-aria/)
     {% comment %}
     -   @@ need to add new ones – and confirm with Michael if anything currently listed under Archive should be here instead…
     {% endcomment %}
@@ -262,11 +261,11 @@ _To get short descriptions of primary content, see [[WAI Resources]](/resources/
     -   [Press Release: World Wide Web Consortium Issues UAAG 1.0 as a W3C Recommendation ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/2002/12/uaag10-pressrelease)
     -   [Testimonials for UAAG 1.0 Recommendation ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/2002/12/uaag10-testimonials)
 - WAI-ARIA
--     -   [Accessible Rich Internet Applications (WAI-ARIA) Version 1.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/wai-aria/)
     -   [WAI-ARIA Primer ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/wai-aria-primer/)
     -   [WAI-ARIA Authoring Practices ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/wai-aria-practices/)
     -   [WAI-ARIA 1.0 User Agent Implementation Guide ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/wai-aria-implementation/)
     -   [Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap) ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/wai-aria-roadmap/)
+    -   [WAI-ARIA FAQ](https://www.w3.org/WAI/ARIA/faq)
 - EARL
     -   [Requirements for the Evaluation and Report Language (EARL) 1.0 ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/EARL10-Requirements/)
     -   [Evaluation And Report Language (EARL) 1.0 Schema ![technical report](https://www.w3.org/Icons/tr.png)](https://www.w3.org/TR/EARL10-Schema/)
