@@ -124,7 +124,7 @@ _To get short descriptions of primary content, see [[WAI Resources]](/resources/
 - [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }})
 - Evaluation Tools
     -   [Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/eval/selectingtools)
-    -   [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+    -   [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/)
 - Conformance Evaluation and Reports
     -   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]({{ "/test-evaluate/conformance/wcag-em/" | relative_url }})
     -   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator ![different format](https://www.w3.org/Icons/tr.png)](https://www.w3.org/WAI/eval/report-tool/)
