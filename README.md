@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3c6e99c5-1968-402f-88d6-30156725cae0/deploy-status)](https://app.netlify.com/sites/wai-sitemap/deploys)
+> [!IMPORTANT]
+> This repository has been archived 2 May 2024.
+>
+> [WAI Site Map](https://www.w3.org/WAI/sitemap/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
